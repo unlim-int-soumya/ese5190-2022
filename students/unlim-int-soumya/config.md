@@ -1,5 +1,5 @@
 ### `/lab2b/part01/link`
-https://github.com/unlim-int-soumya/ese5190-2022-lab2b-esp/tree/main/lab/01_registers
+[https://github.com/unlim-int-soumya/ese5190-2022-lab2b-esp/tree/main/lab/01_registers](https://github.com/unlim-int-soumya/ese5190-2022-lab2b-esp/tree/main/lab/01_registers)
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
